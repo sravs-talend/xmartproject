@@ -1,0 +1,6 @@
+emp_name,salary,department,city,age
+arun,5000,hr,hyd,24
+srihan,4000,it,banglore,26
+suma,4500,hr,chennai,28
+ameer,3500,hyd,fin,22
+neha,5500,chennai,fin,25
